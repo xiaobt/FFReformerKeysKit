@@ -1,0 +1,16 @@
+PODS:
+  - FFReformerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - FFReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFReformerKeysKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FFReformerKeysKit: c79dc7aafb1f6fc0b059c92d79133b5ae0969081
+
+PODFILE CHECKSUM: c6d7bab27d0a6eb8e82bb9a9339a8fe5930c42b0
+
+COCOAPODS: 1.4.0
