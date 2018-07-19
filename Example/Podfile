@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FFReformerKeysKit_Example' do
+  pod 'FFReformerKeysKit', :path => '../'
+
+  target 'FFReformerKeysKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
